@@ -1,0 +1,11 @@
+{
+  "name": "my-electron-app-tutorial",
+  "version": "1.0.0",
+  "description": "electron tutorial",
+  "main": "main.js",
+  "author": "Ismael Castro",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
